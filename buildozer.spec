@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = My pass
+title = My app
 
 # (str) Package name
 package.name = myapp
